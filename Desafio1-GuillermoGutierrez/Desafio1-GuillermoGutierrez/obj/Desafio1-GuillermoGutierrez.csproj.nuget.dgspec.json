@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Curso C# - CoderHouse\\Practicas\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez.csproj": {}
+    "E:\\Curso C# - CoderHouse\\Proyecto Final\\CoderHouse-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez.csproj": {}
   },
   "projects": {
-    "E:\\Curso C# - CoderHouse\\Practicas\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez.csproj": {
+    "E:\\Curso C# - CoderHouse\\Proyecto Final\\CoderHouse-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Curso C# - CoderHouse\\Practicas\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez.csproj",
+        "projectUniqueName": "E:\\Curso C# - CoderHouse\\Proyecto Final\\CoderHouse-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez.csproj",
         "projectName": "Desafio1-GuillermoGutierrez",
-        "projectPath": "E:\\Curso C# - CoderHouse\\Practicas\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez.csproj",
+        "projectPath": "E:\\Curso C# - CoderHouse\\Proyecto Final\\CoderHouse-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez.csproj",
         "packagesPath": "C:\\Users\\adest\\.nuget\\packages\\",
-        "outputPath": "E:\\Curso C# - CoderHouse\\Practicas\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\obj\\",
+        "outputPath": "E:\\Curso C# - CoderHouse\\Proyecto Final\\CoderHouse-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\Desafio1-GuillermoGutierrez\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
