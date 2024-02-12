@@ -1,0 +1,14 @@
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\bin\Debug\net8.0\SistemaGestionDataEntities.deps.json
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\bin\Debug\net8.0\SistemaGestionDataEntities.runtimeconfig.json
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\bin\Debug\net8.0\SistemaGestionDataEntities.dll
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\bin\Debug\net8.0\SistemaGestionDataEntities.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\SistemaGestionDataEntities.csproj.AssemblyReference.cache
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\SistemaGestionDataEntities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\SistemaGestionDataEntities.AssemblyInfoInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\SistemaGestionDataEntities.AssemblyInfo.cs
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\SistemaGestionDataEntities.csproj.CoreCompileInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\SistemaGestionDataEntities.dll
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\refint\SistemaGestionDataEntities.dll
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\SistemaGestionDataEntities.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\SistemaGestionDataEntities.genruntimeconfig.cache
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionDataEntities\obj\Debug\net8.0\ref\SistemaGestionDataEntities.dll

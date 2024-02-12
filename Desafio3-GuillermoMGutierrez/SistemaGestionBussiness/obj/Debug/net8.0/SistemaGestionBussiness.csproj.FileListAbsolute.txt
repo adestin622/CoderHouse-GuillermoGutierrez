@@ -1,0 +1,15 @@
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\bin\Debug\net8.0\SistemaGestionBussiness.deps.json
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\bin\Debug\net8.0\SistemaGestionBussiness.dll
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\bin\Debug\net8.0\SistemaGestionBussiness.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\SistemaGestionBussiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\SistemaGestionBussiness.AssemblyInfoInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\SistemaGestionBussiness.AssemblyInfo.cs
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\SistemaGestionBussiness.csproj.CoreCompileInputs.cache
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\SistemaGestionBussiness.dll
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\refint\SistemaGestionBussiness.dll
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\SistemaGestionBussiness.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\ref\SistemaGestionBussiness.dll
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\bin\Debug\net8.0\SistemaGestionDataEntities.dll
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\bin\Debug\net8.0\SistemaGestionDataEntities.pdb
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\SistemaGestionBussiness.csproj.AssemblyReference.cache
+E:\Curso C# - CoderHouse\Proyecto Final\Desafio3-GuillermoMGutierrez\SistemaGestionBussiness\obj\Debug\net8.0\SistemaGestionBussiness.csproj.CopyComplete
